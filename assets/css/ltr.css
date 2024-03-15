@@ -1,0 +1,98 @@
+#ETemplate[dir=ltr] .main .section_container .box-main .header h2.title::before {
+    right: unset;
+    left: 0;
+}
+
+#ETemplate[dir=ltr] .main .section_container .box-main .footer .btnSaveInterpretation::before {
+    margin-left: unset;
+    margin-right: 10px;
+}
+
+#ETemplate[dir=ltr] .EcloseModal::after {
+
+    right: 30px;
+    left: unset;
+}
+
+#ETemplate[dir=ltr] .main .section_container .box-main .tools > div {
+    margin-left: unset;
+    margin-right: 8px;
+}
+
+#ETemplate[dir=ltr] .modal.EcontentIndex .box-main .content {
+    padding: 50px 0 50px 70px;
+}
+
+#ETemplate[dir=ltr] .modal.EcontentIndex .box-main .content ul li::before {
+    margin-left: unset;
+    margin-right: 5px;
+}
+
+#ETemplate[dir=ltr] .modal.EcontentIndex .box-main .footer > div {
+    padding-right: unset;
+    padding-left: 15px;
+
+}
+
+#ETemplate[dir=ltr] .modal.EcontentIndex .box-main .footer > div::before {
+    margin-left: unset;
+    margin-right: 8px;
+}
+
+#ETemplate[dir=ltr] .modal.EcontentIndex .box-main .content ul li:not(.pro , .lock)::before {
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20' fill='none'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M10.0003 17.708C15.7812 17.708 17.7087 15.7805 17.7087 9.99968C17.7087 4.21884 15.7812 2.29134 10.0003 2.29134C4.21949 2.29134 2.29199 4.21884 2.29199 9.99967C2.29199 15.7805 4.21949 17.708 10.0003 17.708Z' stroke='%233A3A3A' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M8.79883 12.8926C8.79883 12.8926 11.7038 10.8992 11.7038 9.99925C11.7038 9.09924 8.79883 7.10758 8.79883 7.10758' stroke='%233A3A3A' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+
+#ETemplate[dir=ltr] .box-main .content .blur-lock .buttons > div:last-child {
+    margin-right: unset;
+    margin-left: 5%;
+}
+
+#ETemplate[dir=ltr] .box-main .content .blur-lock .buttons > div.cancel::before {
+    left: -8px;
+}
+
+#ETemplate[dir=ltr] .box-main .content .blur-lock .buttons > div.switchToAdvance::before {
+    left: -8px;
+}
+
+#ETemplate[dir=ltr] .main .section_container .box-main .footer .previous-button::before {
+    content: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.57031 18.0703L3.50031 12.0003L9.57031 5.93031' stroke='%233A3A3A' stroke-width='2' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M20.5 12L3.67 12' stroke='%233A3A3A' stroke-width='2' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
+    margin-left: unset;
+    margin-right: 10px;
+}
+
+#ETemplate[dir=ltr] .main .box-main .content .text_and_line > div.text {
+    margin-left: unset;
+    margin-right: 0.5rem;
+}
+
+#ETemplate[dir=ltr] .main #ConvertToAdvance .box-main .content .crown_and_text > div > div::before {
+    right: unset;
+    left: -62px;
+}
+
+#ETemplate[dir=ltr] .main #ConvertToAdvance .box-main .content .accordion_container button.accordion {
+    padding-right: unset;
+    padding-left: 40px;
+}
+
+#ETemplate[dir=ltr] .main #ConvertToAdvance .box-main .content .accordion_container .vertical {
+    margin-left: unset;
+    margin-right: 1rem;
+}
+
+#ETemplate[dir=ltr] .main #ConvertToAdvance .box-main .content .accordion_container button::before {
+    right: 0;
+    left: 0.5rem;
+}
+
+#ETemplate[dir=ltr] .box-main .tools .btnBackToSectionAgo::before {
+    content: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.57031 18.0703L3.50031 12.0003L9.57031 5.93031' stroke='%233A3A3A' stroke-width='2' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M20.5 12L3.67 12' stroke='%233A3A3A' stroke-width='2' stroke-miterlimit='10' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
+}
+
+
+
+#ETemplate[dir="ltr"] .main #ConvertToAdvance .box-main .content .accoridon_container .vertical {
+    margin-right: 1rem;
+}
